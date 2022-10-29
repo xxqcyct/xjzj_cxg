@@ -57,7 +57,7 @@ const 最小间距 = 6;
         最小间距
     );
 
-    let 上 = Math.round(省元素方位.top + 省元素方位.height/2 - 设置等级元素方位.height/2);
+    let 上 = Math.round(省元素方位.top + 省元素方位.height/2 - 设置等级元素方位.height/2 + 设置等级元素方位.height/2);
     上 = Math.min(
         上,
         document.body.offsetHeight - 设置等级元素方位.height - 最小间距
