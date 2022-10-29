@@ -151,12 +151,12 @@ footer a.按钮 {
     border-width: 2px;
   }
   #设置等级 h2 {
-    font-size: 6px;
-    line-height: 8px;
+    font-size: 4px;
+    line-height: 4px;
   }
   #设置等级 a {
-    font-size: 6px;
-    line-height: 8px;
+    font-size: 4px;
+    line-height: 4px;
   }
 }
 @media (max-width: 480px) and (min-height: 600px) {
